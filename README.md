@@ -1,4 +1,4 @@
-# quizapp
+# dynamiccvapp
 
 A new Flutter project.
 
