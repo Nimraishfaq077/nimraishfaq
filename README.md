@@ -1,4 +1,4 @@
-# pro_dice_app
+# quizapp
 
 A new Flutter project.
 
